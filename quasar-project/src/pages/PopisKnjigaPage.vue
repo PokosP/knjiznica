@@ -74,6 +74,13 @@ const rows = [
     status: "zauzeta",
     opis: "Bavi se temama kao što su dobro i zlo, moral, krivica, iskupljenje i huimanizam",
   },
-  // ...dodaj još knjiga za testiranje
+  {
+    id: 3,
+    naslov: "Izgubljena u prijevodu",
+    autor: "Jean Kwok",
+    status: "zauzeta",
+    opis: "Autobiografska priča o jedanaestogodišnjakinji koja s majkom imigrira u Brooklyn",
+  },
+  // ...dodajvanje još knjiga za testiranje
 ];
 </script>
