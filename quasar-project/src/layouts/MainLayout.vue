@@ -73,10 +73,10 @@ const linksList = [
     link: "https://twitter.quasar.dev",
   },
   {
-    title: "Facebook",
-    caption: "@QuasarFramework",
-    icon: "public",
-    link: "https://facebook.quasar.dev",
+    title: "Login",
+    caption: "Logiranje korisnika",
+    icon: "login",
+    link: "http://localhost:9000/#/login",
   },
   {
     title: "Popis knjiga",
@@ -86,10 +86,10 @@ const linksList = [
   },
 
   {
-    title: "Github repozitorij",
-    caption: "knjiznica na githubu",
-    icon: "code",
-    link: "https://github.com/PokosP/knjiznica.git",
+    title: "Pretraživanje knjiga",
+    caption: "Pretraživanje knjiga",
+    icon: "search",
+    link: "http://localhost:9000/#/pretrazivanje",
   },
   {
     title: "Veleučilište u Rijeci",
